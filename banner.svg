@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Samarjeet Malik banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.35">
+      <stop offset="0%" stop-color="#0b1d51"/>
+      <stop offset="50%" stop-color="#1a3a8f"/>
+      <stop offset="100%" stop-color="#2cb5b8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="220" fill="url(#bg)"/>
+  <path d="M0,150 C200,120 400,180 600,150 C800,120 1000,180 1200,150 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.06"/>
+  <path d="M0,168 C220,140 420,190 620,165 C820,140 1020,188 1200,165 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.09"/>
+  <path d="M0,190 C200,175 440,205 640,188 C840,170 1040,200 1200,190 L1200,220 L0,220 Z" fill="#ffffff" opacity="0.12"/>
+  <text x="600" y="108" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="1.5">Samarjeet Malik</text>
+  <text x="600" y="146" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#ffffff" opacity="0.9">Physics-Informed ML  &#183;  Astroparticle Physics  &#183;  AI &amp; Tech Policy</text>
+</svg>
