@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1d51,50:1a3a8f,100:2cb5b8&height=210&section=header&text=Samarjeet%20Malik&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Physics-Informed%20ML%20%E2%80%A2%20Astroparticle%20Physics%20%E2%80%A2%20AI%20%26%20Tech%20Policy&descAlignY=54&descSize=16" width="100%"/>
+<img src="banner.svg" alt="Samarjeet Malik" width="100%"/>
 
 <a href="https://github.com/SamarjeetMalik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2CB5B8&center=true&vCenter=true&width=720&lines=Embedding+physics+into+neural+networks.;Cosmic-ray+energy+reconstruction+%40+GRAPES-3;Physics-Informed+Neural+Networks+%26+Graph+NNs;...and+AI+governance+%40+ORF+%C2%B7+NITI+Aayog" alt="Typing SVG" />
@@ -119,20 +119,27 @@ class SamarjeetMalik:
 Beyond the research, I work at the technical–policy interface — turning ML fluency into governance analysis that holds up to scrutiny.
 
 - 🏛️ **ORF — Centre for Security, Strategy & Technology:** emerging-tech governance, crypto/blockchain regulation, and semiconductor policy; supported **Raisina Dialogue 2026** (ORF × MEA).
-- 📑 **NITI Aayog (Economics & Finance):** authored *“Artificial Intelligence in India”* — benchmarked India's digital public infrastructure (Aadhaar · UPI · ONDC) against global peers and modelled a **~$967B** AI-driven GDP impact by 2030.
+- 📑 **NITI Aayog (Economics & Finance):** authored *"Artificial Intelligence in India"* — benchmarked India's digital public infrastructure (Aadhaar · UPI · ONDC) against global peers and modelled a **~$967B** AI-driven GDP impact by 2030.
 - 🔎 **Selected writing:** blockchain steganography & covert terror financing · FATF crypto-vector analysis · India's defence budgeting & GaN semiconductor indigenisation · comparative AI-governance tracking (EU AI Act, US Executive Order).
 
 <!-- ============================ STATS ============================ -->
 ## 📊 GitHub Stats
 
+<!--
+  NOTE: The two cards below are served by the shared public github-readme-stats
+  instance, which is often rate-limited and may occasionally render as broken.
+  For 100% reliability, deploy your own instance (fork anuraghazra/github-readme-stats,
+  deploy on Vercel, add a GitHub token as env var PAT_1) and replace the host
+  "github-readme-stats.vercel.app" below with your own instance host.
+  The streak card (Heroku), the banner, and all badges are independent of this.
+-->
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamarjeetMalik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2cb5b8&icon_color=2cb5b8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamarjeetMalik&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2cb5b8&icon_color=2cb5b8&cache_seconds=86400" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SamarjeetMalik&hide_border=true&theme=tokyonight&ring=2cb5b8&fire=2cb5b8&currStreakLabel=2cb5b8" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarjeetMalik&layout=compact&hide_border=true&theme=tokyonight&title_color=2cb5b8&langs_count=8" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamarjeetMalik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamarjeetMalik&layout=compact&hide_border=true&theme=tokyonight&title_color=2cb5b8&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -141,6 +148,6 @@ Beyond the research, I work at the technical–policy interface — turning ML f
 
 ### ⚡ "The model should respect the physics, not just the data."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2cb5b8,50:1a3a8f,100:0b1d51&height=120&section=footer" width="100%"/>
+<img src="footer.svg" width="100%"/>
 
 </div>
