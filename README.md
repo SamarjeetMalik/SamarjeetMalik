@@ -25,7 +25,6 @@ class SamarjeetMalik:
         self.affiliation = ["IIT Jodhpur", "IOP Bhubaneswar", "TIFR — GRAPES-3"]
         self.focus       = "Physics-Informed ML for astroparticle physics"
         self.also        = "AI & emerging-tech policy @ ORF · NITI Aayog"
-        self.degree      = "B.Tech, Computer Science (KIIT)"
 
     def what_i_do(self):
         return (
